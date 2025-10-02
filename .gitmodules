@@ -1,0 +1,3 @@
+[submodule "templeWebsite"]
+	path = templeWebsite
+	url = git@github.com:akarthik1709/templeWebsite.git
